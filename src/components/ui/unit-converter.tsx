@@ -1,5 +1,4 @@
 "use client"; // Enables client-side rendering for this component
-import Image from "next/image";
 // Import necessary hooks from React
 import { useState, ChangeEvent } from "react";
 
